@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    background-image: url("imagens/rendition1.img.jpg.");
+    background-position: right;
+    background-size: cover;
+}
+.apresentacao{
+    border: yellow solid 1px;
+    text-align: justify;
+    width: 500px;
+    margin-left: 450px;
+    padding: 20px;
+}
+p{
+    text-indent: 40px;
+    color: whitesmoke;
+    font-size: 12pt;
+}
+h1{
+
+    margin-top: 0px;
+    padding: 25px;
+    color: black;
+    background-color: #ffd700;
+    text-align: center;
+}
