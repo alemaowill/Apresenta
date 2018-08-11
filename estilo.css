@@ -1,6 +1,6 @@
 body{
     background-color: black;
-    background-image: url("https://content.pulse.ea.com/content/legacy/starwars-ea-com/pt_BR/starwars/battlefront/news-articles/star-wars-battlefront-trophies-revealed/_jcr_content/featuredImage/renditions/rendition1.img.jpg");
+    background-image: url("rendition1.img.jpg");
     background-position: right;
     background-size: cover;
 }
